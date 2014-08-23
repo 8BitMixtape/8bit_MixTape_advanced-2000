@@ -15,7 +15,10 @@
    id="svg10658"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 15">
+   sodipodi:docname="8bit_advanced_nano.svg"
+   inkscape:export-filename="/home/dusjagr/Documents/sgmk/8bit_mixedTape/8bit_MixTape_advanced-2000/schematics/8bit_advanced_nano.png"
+   inkscape:export-xdpi="149.69336"
+   inkscape:export-ydpi="149.69336">
   <defs
      id="defs10660">
     <filter
@@ -660,17 +663,17 @@
     <text
        sodipodi:linespacing="100%"
        id="text11668"
-       y="793.79065"
-       x="538.69427"
+       y="770.93353"
+       x="531.55139"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan11670"
-         y="793.79065"
-         x="545.06146"
+         y="770.93353"
+         x="537.91858"
          sodipodi:role="line"
          style="line-height:100%">Arduino </tspan><tspan
-         y="833.79065"
-         x="538.69427"
+         y="810.93353"
+         x="531.55139"
          sodipodi:role="line"
          id="tspan11672"
          style="line-height:100%">Nano</tspan></text>
